@@ -10,14 +10,4 @@ SQLite
 
 Docker
 
-Criar tarefas
-
-Listar tarefas
-
-Consultar tarefa por ID
-
-Atualizar tarefas
-
-Excluir tarefas
-
 João Antônio Ribeiro da Silva Conceição
